@@ -2,15 +2,15 @@
 Project to predict dominancy of meanings inherent homonyms
 
 ## TasaSentDocs.txt
-## [Thomas K Landauer and Susan T Dumais. 1997. A solution to plato’s problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge. Psychological review, 104(2):211.]
+[Thomas K Landauer and Susan T Dumais. 1997. A solution to plato’s problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge. Psychological review, 104(2):211.]
 This corpus used to construct memory on the basis of sentences
 
 ## tasadocspara.txt
-## [Thomas K Landauer and Susan T Dumais. 1997. A solution to plato’s problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge. Psychological review, 104(2):211.]
+[Thomas K Landauer and Susan T Dumais. 1997. A solution to plato’s problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge. Psychological review, 104(2):211.]
 This corpus used to construct memory on the basis of paragraphs
 
 ## eDom_norms.txt
-## [Blair C Armstrong, Natasha Tokowicz, and David C Plaut. 2012. edom: Norming software and relative meaning frequencies for 544 english homonyms. Behavior research methods, 44(4):1015–1027.]
+[Blair C Armstrong, Natasha Tokowicz, and David C Plaut. 2012. edom: Norming software and relative meaning frequencies for 544 english homonyms. Behavior research methods, 44(4):1015–1027.]
 This is used as target value for testing ITS's performance in determining dominancy
 
 
