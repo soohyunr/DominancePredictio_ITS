@@ -1,5 +1,5 @@
 # DominancePrediction_ITS
-Project to predict dominancy of meanings inherent homonyms
+Project to predict dominancy of meanings inherent homonyms using Instance-based Distributional Semantic Model (The Instance Theory of Semantics (ITS) Jamieson, Avery, Johns, & Jones, 2018) 
 
 ## TasaSentDocs.txt
 [Thomas K Landauer and Susan T Dumais. 1997. A solution to plato’s problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge. Psychological review, 104(2):211.]
